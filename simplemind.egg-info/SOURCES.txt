@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE
+MANIFEST.in
+README.txt
+setup.py
+simplemind/__init__.py
+simplemind.egg-info/PKG-INFO
+simplemind.egg-info/SOURCES.txt
+simplemind.egg-info/dependency_links.txt
+simplemind.egg-info/top_level.txt
